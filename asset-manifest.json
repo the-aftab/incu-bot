@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/incu-bot/static/css/main.073c9b0a.css",
+    "main.js": "/incu-bot/static/js/main.02b82039.js",
+    "static/js/787.429b523c.chunk.js": "/incu-bot/static/js/787.429b523c.chunk.js",
+    "index.html": "/incu-bot/index.html",
+    "static/media/logo.svg": "/incu-bot/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.073c9b0a.css.map": "/incu-bot/static/css/main.073c9b0a.css.map",
+    "main.02b82039.js.map": "/incu-bot/static/js/main.02b82039.js.map",
+    "787.429b523c.chunk.js.map": "/incu-bot/static/js/787.429b523c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.02b82039.js"
+  ]
+}
