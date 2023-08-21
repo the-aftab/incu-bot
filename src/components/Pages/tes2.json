@@ -1,0 +1,132 @@
+[
+{
+  "id": 2,
+  "name": "Learn JavaScript",
+  "duration": "6 weeks",
+  "schedule": [
+    {
+      "week": 1,
+      "topics": [
+        { "id": 9, "topic": "Introduction to JavaScript", "status": "incomplete" },
+        { "id": 10, "topic": "Variables and Data Types", "status": "incomplete" }
+      ]
+    },
+    {
+      "week": 2,
+      "topics": [
+        { "id": 11, "topic": "Control Flow", "status": "incomplete" },
+        { "id": 12, "topic": "Functions", "status": "incomplete" }
+      ]
+    },
+    {
+      "week": 3,
+      "topics": [
+        { "id": 13, "topic": "Arrays", "status": "incomplete" },
+        { "id": 14, "topic": "Objects", "status": "incomplete" }
+      ]
+    },
+    {
+      "week": 4,
+      "topics": [
+        { "id": 15, "topic": "DOM Manipulation", "status": "incomplete" },
+        { "id": 16, "topic": "AJAX and Fetch", "status": "incomplete" }
+      ]
+    },
+    {
+      "week": 5,
+      "topics": [
+        { "id": 17, "topic": "ES6 and Modern JavaScript", "status": "incomplete" }
+      ]
+    },
+    {
+      "week": 6,
+      "topics": [
+        { "id": 18, "topic": "Node.js Fundamentals", "status": "incomplete" }
+      ]
+    }
+  ]
+},
+{
+  "id": 3,
+  "name": "Introduction to Web Development",
+  "duration": "3 weeks",
+  "schedule": [
+    {
+      "week": 1,
+      "topics": [
+        { "id": 19, "topic": "HTML Fundamentals", "status": "incomplete" },
+        { "id": 20, "topic": "CSS Basics", "status": "incomplete" }
+      ]
+    },
+    {
+      "week": 2,
+      "topics": [
+        { "id": 21, "topic": "Responsive Design", "status": "incomplete" }
+      ]
+    },
+    {
+      "week": 3,
+      "topics": [
+        { "id": 22, "topic": "Introduction to UI/UX", "status": "incomplete" },
+        { "id": 23, "topic": "Basic Web Design Principles", "status": "incomplete" }
+      ]
+    }
+  ]
+},
+{
+  "id": 4,
+  "name": "Data Science with Python",
+  "duration": "8 weeks",
+  "schedule": [
+    {
+      "week": 1,
+      "topics": [
+        { "id": 24, "topic": "Introduction to Data Science", "status": "incomplete" },
+        { "id": 25, "topic": "Data Analysis with Pandas", "status": "incomplete" }
+      ]
+    },
+    {
+      "week": 2,
+      "topics": [
+        { "id": 26, "topic": "Data Visualization with Matplotlib and Seaborn", "status": "incomplete" }
+      ]
+    },
+    {
+      "week": 3,
+      "topics": [
+        { "id": 27, "topic": "Machine Learning Basics", "status": "incomplete" }
+      ]
+    },
+    {
+      "week": 4,
+      "topics": [
+        { "id": 28, "topic": "Linear Regression", "status": "incomplete" }
+      ]
+    },
+    {
+      "week": 5,
+      "topics": [
+        { "id": 29, "topic": "Classification Algorithms", "status": "incomplete" }
+      ]
+    },
+    {
+      "week": 6,
+      "topics": [
+        { "id": 30, "topic": "Clustering Algorithms", "status": "incomplete" }
+      ]
+    },
+    {
+      "week": 7,
+      "topics": [
+        { "id": 31, "topic": "Natural Language Processing", "status": "incomplete" }
+      ]
+    },
+    {
+      "week": 8,
+      "topics": [
+        { "id": 32, "topic": "Final Projects and Presentations", "status": "incomplete" }
+      ]
+    }
+  ]
+}
+]

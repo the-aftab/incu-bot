@@ -1,0 +1,682 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Learn Python",
+      "duration": "4 weeks",
+      "weeks": [
+          {
+            "week_id": 1,
+            "days": [
+              {
+                "day_id": 1,
+                "topics": [
+                  {"id": 1, "status":"Completed","topic": "Introduction to Python and Programming"},
+                  {"id": 2, "status":"Incomplete","topic": "Setting up Python environment"}
+                ]
+              },
+              {
+                "day_id": 2,
+                "topics": [
+                  {"id": 3, "status":"Incomplete","topic": "Python Syntax and Variables"},
+                  {"id": 4, "status":"Incomplete","topic": "Data Types: int, float, str"}
+                ]
+              },
+              {
+                "day_id": 3,
+                "topics": [
+                  {"id": 5, "status":"Incomplete","topic": "Basic Operators (+, -, *, /, %)"},
+                  {"id": 6, "status":"Incomplete","topic": "Type Conversion"}
+                ]
+              },
+              {
+                "day_id": 4,
+                "topics": [
+                  {"id": 7, "status":"Incomplete","topic": "Conditional Statements (if, elif, else)"},
+                  {"id": 8, "status":"Incomplete","topic": "Logical Operators (and, or, not)"}
+                ]
+              },
+              {
+                "day_id": 5,
+                "topics": [
+                  {"id": 9, "status":"Incomplete","topic": "Loops: while and for loops"},
+                  {"id": 10, "status":"Incomplete","topic": "Using range() function"}
+                ]
+              },
+              {
+                "day_id": 6,
+                "topics": [
+                  {"id": 11, "status":"Incomplete","topic": "Lists and Indexing"},
+                  {"id": 12, "status":"Incomplete","topic": "List Methods"}
+                ]
+              },
+              {
+                "day_id": 7,
+                "topics": [
+                  {"id": 13, "status":"Incomplete","topic": "List Comprehensions"},
+                  {"id": 14, "status":"Incomplete","topic": "Introduction to Functions"}
+                ]
+              }
+            ]
+          },
+          {
+            "week_id": 2,
+            "days": [
+              {
+                "day_id": 1,
+                "topics": [
+                  {"id": 15, "status":"Incomplete","topic": "Functions with Parameters and Return Values"},
+                  {"id": 16, "status":"Incomplete","topic": "Scope and Lifetime of Variables"}
+                ]
+              },
+              {
+                "day_id": 2,
+                "topics": [
+                  {"id": 17, "status":"Incomplete","topic": "String Manipulation"},
+                  {"id": 18, "status":"Incomplete","topic": "String Methods"}
+                ]
+              },
+              {
+                "day_id": 3,
+                "topics": [
+                  {"id": 19, "status":"Incomplete","topic": "Tuples and Sets"},
+                  {"id": 20, "status":"Incomplete","topic": "Dictionaries and Key-Value Pairs"}
+                ]
+              },
+              {
+                "day_id": 4,
+                "topics": [
+                  {"id": 21, "status":"Incomplete","topic": "File Handling: Reading and Writing Files"},
+                  {"id": 22, "status":"Incomplete","topic": "Exception Handling"}
+                ]
+              },
+              {
+                "day_id": 5,
+                "topics": [
+                  {"id": 23, "status":"Incomplete","topic": "Modules and Packages"},
+                  {"id": 24, "status":"Incomplete","topic": "Importing and Using Modules"}
+                ]
+              },
+              {
+                "day_id": 6,
+                "topics": [
+                  {"id": 25, "status":"Incomplete","topic": "Introduction to Object-Oriented Programming (OOP)"},
+                  {"id": 26, "status":"Incomplete","topic": "Classes and Objects"}
+                ]
+              },
+              {
+                "day_id": 7,
+                "topics": [
+                  {"id": 27, "status":"Incomplete","topic": "Methods and Attributes"},
+                  {"id": 28, "status":"Incomplete","topic": "Constructors and Destructors"}
+                ]
+              }
+            ]
+          },
+          {
+            "week_id": 3,
+            "days": [
+              {
+                "day_id": 1,
+                "topics": [
+                  {"id": 29, "status":"Incomplete","topic": "Inheritance and Polymorphism"},
+                  {"id": 30, "status":"Incomplete","topic": "Encapsulation and Abstraction"}
+                ]
+              },
+              {
+                "day_id": 2,
+                "topics": [
+                  {"id": 31, "status":"Incomplete","topic": "Working with Date and Time"},
+                  {"id": 32, "status":"Incomplete","topic": "Regular Expressions"}
+                ]
+              },
+              {
+                "day_id": 3,
+                "topics": [
+                  {"id": 33, "status":"Incomplete","topic": "List of Comprehensions"},
+                  {"id": 34, "status":"Incomplete","topic": "Lambda Functions"}
+                ]
+              },
+              {
+                "day_id": 4,
+                "topics": [
+                  {"id": 35, "status":"Incomplete","topic": "Map, Filter, and Reduce"},
+                  {"id": 36, "status":"Incomplete","topic": "Error Handling and Debugging"}
+                ]
+              },
+              {
+                "day_id": 5,
+                "topics": [
+                  {"id": 37, "status":"Incomplete","topic": "Basic Input and Output"},
+                  {"id": 38, "status":"Incomplete","topic": "Working with JSON and CSV"}
+                ]
+              },
+              {
+                "day_id": 6,
+                "topics": [
+                  {"id": 39, "status":"Incomplete","topic": "Introduction to Libraries (e.g., NumPy, Pandas)"},
+                  {"id": 40, "status":"Incomplete","topic": "Overview of Data Manipulation"}
+                ]
+              },
+              {
+                "day_id": 7,
+                "topics": [
+                  {"id": 41, "status":"Incomplete","topic": "Project: Simple Python Program"},
+                  {"id": 42, "status":"Incomplete","topic": "Review and Recap"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+    {
+      "id": 2,
+      "name": "Learn JavaScript",
+      "duration": "4 weeks",
+      "weeks": [
+          {
+            "week_id": 1,
+            "days": [
+              {
+                "day_id": 1,
+                "topics": [
+                  {"id": 1, "status":"Completed","topic": "Introduction to Python and Programming"},
+                  {"id": 2, "status":"Incomplete","topic": "Setting up Python environment"}
+                ]
+              },
+              {
+                "day_id": 2,
+                "topics": [
+                  {"id": 3, "status":"Incomplete","topic": "Python Syntax and Variables"},
+                  {"id": 4, "status":"Incomplete","topic": "Data Types: int, float, str"}
+                ]
+              },
+              {
+                "day_id": 3,
+                "topics": [
+                  {"id": 5, "status":"Incomplete","topic": "Basic Operators (+, -, *, /, %)"},
+                  {"id": 6, "status":"Incomplete","topic": "Type Conversion"}
+                ]
+              },
+              {
+                "day_id": 4,
+                "topics": [
+                  {"id": 7, "status":"Incomplete","topic": "Conditional Statements (if, elif, else)"},
+                  {"id": 8, "status":"Incomplete","topic": "Logical Operators (and, or, not)"}
+                ]
+              },
+              {
+                "day_id": 5,
+                "topics": [
+                  {"id": 9, "status":"Incomplete","topic": "Loops: while and for loops"},
+                  {"id": 10, "status":"Incomplete","topic": "Using range() function"}
+                ]
+              },
+              {
+                "day_id": 6,
+                "topics": [
+                  {"id": 11, "status":"Incomplete","topic": "Lists and Indexing"},
+                  {"id": 12, "status":"Incomplete","topic": "List Methods"}
+                ]
+              },
+              {
+                "day_id": 7,
+                "topics": [
+                  {"id": 13, "status":"Incomplete","topic": "List Comprehensions"},
+                  {"id": 14, "status":"Incomplete","topic": "Introduction to Functions"}
+                ]
+              }
+            ]
+          },
+          {
+            "week_id": 2,
+            "days": [
+              {
+                "day_id": 1,
+                "topics": [
+                  {"id": 15, "status":"Incomplete","topic": "Functions with Parameters and Return Values"},
+                  {"id": 16, "status":"Incomplete","topic": "Scope and Lifetime of Variables"}
+                ]
+              },
+              {
+                "day_id": 2,
+                "topics": [
+                  {"id": 17, "status":"Incomplete","topic": "String Manipulation"},
+                  {"id": 18, "status":"Incomplete","topic": "String Methods"}
+                ]
+              },
+              {
+                "day_id": 3,
+                "topics": [
+                  {"id": 19, "status":"Incomplete","topic": "Tuples and Sets"},
+                  {"id": 20, "status":"Incomplete","topic": "Dictionaries and Key-Value Pairs"}
+                ]
+              },
+              {
+                "day_id": 4,
+                "topics": [
+                  {"id": 21, "status":"Incomplete","topic": "File Handling: Reading and Writing Files"},
+                  {"id": 22, "status":"Incomplete","topic": "Exception Handling"}
+                ]
+              },
+              {
+                "day_id": 5,
+                "topics": [
+                  {"id": 23, "status":"Incomplete","topic": "Modules and Packages"},
+                  {"id": 24, "status":"Incomplete","topic": "Importing and Using Modules"}
+                ]
+              },
+              {
+                "day_id": 6,
+                "topics": [
+                  {"id": 25, "status":"Incomplete","topic": "Introduction to Object-Oriented Programming (OOP)"},
+                  {"id": 26, "status":"Incomplete","topic": "Classes and Objects"}
+                ]
+              },
+              {
+                "day_id": 7,
+                "topics": [
+                  {"id": 27, "status":"Incomplete","topic": "Methods and Attributes"},
+                  {"id": 28, "status":"Incomplete","topic": "Constructors and Destructors"}
+                ]
+              }
+            ]
+          },
+          {
+            "week_id": 3,
+            "days": [
+              {
+                "day_id": 1,
+                "topics": [
+                  {"id": 29, "status":"Incomplete","topic": "Inheritance and Polymorphism"},
+                  {"id": 30, "status":"Incomplete","topic": "Encapsulation and Abstraction"}
+                ]
+              },
+              {
+                "day_id": 2,
+                "topics": [
+                  {"id": 31, "status":"Incomplete","topic": "Working with Date and Time"},
+                  {"id": 32, "status":"Incomplete","topic": "Regular Expressions"}
+                ]
+              },
+              {
+                "day_id": 3,
+                "topics": [
+                  {"id": 33, "status":"Incomplete","topic": "List of Comprehensions"},
+                  {"id": 34, "status":"Incomplete","topic": "Lambda Functions"}
+                ]
+              },
+              {
+                "day_id": 4,
+                "topics": [
+                  {"id": 35, "status":"Incomplete","topic": "Map, Filter, and Reduce"},
+                  {"id": 36, "status":"Incomplete","topic": "Error Handling and Debugging"}
+                ]
+              },
+              {
+                "day_id": 5,
+                "topics": [
+                  {"id": 37, "status":"Incomplete","topic": "Basic Input and Output"},
+                  {"id": 38, "status":"Incomplete","topic": "Working with JSON and CSV"}
+                ]
+              },
+              {
+                "day_id": 6,
+                "topics": [
+                  {"id": 39, "status":"Incomplete","topic": "Introduction to Libraries (e.g., NumPy, Pandas)"},
+                  {"id": 40, "status":"Incomplete","topic": "Overview of Data Manipulation"}
+                ]
+              },
+              {
+                "day_id": 7,
+                "topics": [
+                  {"id": 41, "status":"Incomplete","topic": "Project: Simple Python Program"},
+                  {"id": 42, "status":"Incomplete","topic": "Review and Recap"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+    {
+      "id": 3,
+      "name": "Learn Ruby",
+      "duration": "3 weeks",
+      "weeks": [
+          {
+            "week_id": 1,
+            "days": [
+              {
+                "day_id": 1,
+                "topics": [
+                  {"id": 1, "status":"Completed","topic": "Introduction to Python and Programming"},
+                  {"id": 2, "status":"Incomplete","topic": "Setting up Python environment"}
+                ]
+              },
+              {
+                "day_id": 2,
+                "topics": [
+                  {"id": 3, "status":"Incomplete","topic": "Python Syntax and Variables"},
+                  {"id": 4, "status":"Incomplete","topic": "Data Types: int, float, str"}
+                ]
+              },
+              {
+                "day_id": 3,
+                "topics": [
+                  {"id": 5, "status":"Incomplete","topic": "Basic Operators (+, -, *, /, %)"},
+                  {"id": 6, "status":"Incomplete","topic": "Type Conversion"}
+                ]
+              },
+              {
+                "day_id": 4,
+                "topics": [
+                  {"id": 7, "status":"Incomplete","topic": "Conditional Statements (if, elif, else)"},
+                  {"id": 8, "status":"Incomplete","topic": "Logical Operators (and, or, not)"}
+                ]
+              },
+              {
+                "day_id": 5,
+                "topics": [
+                  {"id": 9, "status":"Incomplete","topic": "Loops: while and for loops"},
+                  {"id": 10, "status":"Incomplete","topic": "Using range() function"}
+                ]
+              },
+              {
+                "day_id": 6,
+                "topics": [
+                  {"id": 11, "status":"Incomplete","topic": "Lists and Indexing"},
+                  {"id": 12, "status":"Incomplete","topic": "List Methods"}
+                ]
+              },
+              {
+                "day_id": 7,
+                "topics": [
+                  {"id": 13, "status":"Incomplete","topic": "List Comprehensions"},
+                  {"id": 14, "status":"Incomplete","topic": "Introduction to Functions"}
+                ]
+              }
+            ]
+          },
+          {
+            "week_id": 2,
+            "days": [
+              {
+                "day_id": 1,
+                "topics": [
+                  {"id": 15, "status":"Incomplete","topic": "Functions with Parameters and Return Values"},
+                  {"id": 16, "status":"Incomplete","topic": "Scope and Lifetime of Variables"}
+                ]
+              },
+              {
+                "day_id": 2,
+                "topics": [
+                  {"id": 17, "status":"Incomplete","topic": "String Manipulation"},
+                  {"id": 18, "status":"Incomplete","topic": "String Methods"}
+                ]
+              },
+              {
+                "day_id": 3,
+                "topics": [
+                  {"id": 19, "status":"Incomplete","topic": "Tuples and Sets"},
+                  {"id": 20, "status":"Incomplete","topic": "Dictionaries and Key-Value Pairs"}
+                ]
+              },
+              {
+                "day_id": 4,
+                "topics": [
+                  {"id": 21, "status":"Incomplete","topic": "File Handling: Reading and Writing Files"},
+                  {"id": 22, "status":"Incomplete","topic": "Exception Handling"}
+                ]
+              },
+              {
+                "day_id": 5,
+                "topics": [
+                  {"id": 23, "status":"Incomplete","topic": "Modules and Packages"},
+                  {"id": 24, "status":"Incomplete","topic": "Importing and Using Modules"}
+                ]
+              },
+              {
+                "day_id": 6,
+                "topics": [
+                  {"id": 25, "status":"Incomplete","topic": "Introduction to Object-Oriented Programming (OOP)"},
+                  {"id": 26, "status":"Incomplete","topic": "Classes and Objects"}
+                ]
+              },
+              {
+                "day_id": 7,
+                "topics": [
+                  {"id": 27, "status":"Incomplete","topic": "Methods and Attributes"},
+                  {"id": 28, "status":"Incomplete","topic": "Constructors and Destructors"}
+                ]
+              }
+            ]
+          },
+          {
+            "week_id": 3,
+            "days": [
+              {
+                "day_id": 1,
+                "topics": [
+                  {"id": 29, "status":"Incomplete","topic": "Inheritance and Polymorphism"},
+                  {"id": 30, "status":"Incomplete","topic": "Encapsulation and Abstraction"}
+                ]
+              },
+              {
+                "day_id": 2,
+                "topics": [
+                  {"id": 31, "status":"Incomplete","topic": "Working with Date and Time"},
+                  {"id": 32, "status":"Incomplete","topic": "Regular Expressions"}
+                ]
+              },
+              {
+                "day_id": 3,
+                "topics": [
+                  {"id": 33, "status":"Incomplete","topic": "List of Comprehensions"},
+                  {"id": 34, "status":"Incomplete","topic": "Lambda Functions"}
+                ]
+              },
+              {
+                "day_id": 4,
+                "topics": [
+                  {"id": 35, "status":"Incomplete","topic": "Map, Filter, and Reduce"},
+                  {"id": 36, "status":"Incomplete","topic": "Error Handling and Debugging"}
+                ]
+              },
+              {
+                "day_id": 5,
+                "topics": [
+                  {"id": 37, "status":"Incomplete","topic": "Basic Input and Output"},
+                  {"id": 38, "status":"Incomplete","topic": "Working with JSON and CSV"}
+                ]
+              },
+              {
+                "day_id": 6,
+                "topics": [
+                  {"id": 39, "status":"Incomplete","topic": "Introduction to Libraries (e.g., NumPy, Pandas)"},
+                  {"id": 40, "status":"Incomplete","topic": "Overview of Data Manipulation"}
+                ]
+              },
+              {
+                "day_id": 7,
+                "topics": [
+                  {"id": 41, "status":"Incomplete","topic": "Project: Simple Python Program"},
+                  {"id": 42, "status":"Incomplete","topic": "Review and Recap"}
+                ]
+              }
+            ]
+          }
+        ]
+      },
+    {
+      "id": 4,
+      "name": "Introduction to WebDevelopment",
+      "duration": "4 weeks",
+      "weeks": [
+          {
+            "week_id": 1,
+            "days": [
+              {
+                "day_id": 1,
+                "topics": [
+                  {"id": 1, "status":"Completed","topic": "Introduction to Python and Programming"},
+                  {"id": 2, "status":"Incomplete","topic": "Setting up Python environment"}
+                ]
+              },
+              {
+                "day_id": 2,
+                "topics": [
+                  {"id": 3, "status":"Incomplete","topic": "Python Syntax and Variables"},
+                  {"id": 4, "status":"Incomplete","topic": "Data Types: int, float, str"}
+                ]
+              },
+              {
+                "day_id": 3,
+                "topics": [
+                  {"id": 5, "status":"Incomplete","topic": "Basic Operators (+, -, *, /, %)"},
+                  {"id": 6, "status":"Incomplete","topic": "Type Conversion"}
+                ]
+              },
+              {
+                "day_id": 4,
+                "topics": [
+                  {"id": 7, "status":"Incomplete","topic": "Conditional Statements (if, elif, else)"},
+                  {"id": 8, "status":"Incomplete","topic": "Logical Operators (and, or, not)"}
+                ]
+              },
+              {
+                "day_id": 5,
+                "topics": [
+                  {"id": 9, "status":"Incomplete","topic": "Loops: while and for loops"},
+                  {"id": 10, "status":"Incomplete","topic": "Using range() function"}
+                ]
+              },
+              {
+                "day_id": 6,
+                "topics": [
+                  {"id": 11, "status":"Incomplete","topic": "Lists and Indexing"},
+                  {"id": 12, "status":"Incomplete","topic": "List Methods"}
+                ]
+              },
+              {
+                "day_id": 7,
+                "topics": [
+                  {"id": 13, "status":"Incomplete","topic": "List Comprehensions"},
+                  {"id": 14, "status":"Incomplete","topic": "Introduction to Functions"}
+                ]
+              }
+            ]
+          },
+          {
+            "week_id": 2,
+            "days": [
+              {
+                "day_id": 1,
+                "topics": [
+                  {"id": 15, "status":"Incomplete","topic": "Functions with Parameters and Return Values"},
+                  {"id": 16, "status":"Incomplete","topic": "Scope and Lifetime of Variables"}
+                ]
+              },
+              {
+                "day_id": 2,
+                "topics": [
+                  {"id": 17, "status":"Incomplete","topic": "String Manipulation"},
+                  {"id": 18, "status":"Incomplete","topic": "String Methods"}
+                ]
+              },
+              {
+                "day_id": 3,
+                "topics": [
+                  {"id": 19, "status":"Incomplete","topic": "Tuples and Sets"},
+                  {"id": 20, "status":"Incomplete","topic": "Dictionaries and Key-Value Pairs"}
+                ]
+              },
+              {
+                "day_id": 4,
+                "topics": [
+                  {"id": 21, "status":"Incomplete","topic": "File Handling: Reading and Writing Files"},
+                  {"id": 22, "status":"Incomplete","topic": "Exception Handling"}
+                ]
+              },
+              {
+                "day_id": 5,
+                "topics": [
+                  {"id": 23, "status":"Incomplete","topic": "Modules and Packages"},
+                  {"id": 24, "status":"Incomplete","topic": "Importing and Using Modules"}
+                ]
+              },
+              {
+                "day_id": 6,
+                "topics": [
+                  {"id": 25, "status":"Incomplete","topic": "Introduction to Object-Oriented Programming (OOP)"},
+                  {"id": 26, "status":"Incomplete","topic": "Classes and Objects"}
+                ]
+              },
+              {
+                "day_id": 7,
+                "topics": [
+                  {"id": 27, "status":"Incomplete","topic": "Methods and Attributes"},
+                  {"id": 28, "status":"Incomplete","topic": "Constructors and Destructors"}
+                ]
+              }
+            ]
+          },
+          {
+            "week_id": 3,
+            "days": [
+              {
+                "day_id": 1,
+                "topics": [
+                  {"id": 29, "status":"Incomplete","topic": "Inheritance and Polymorphism"},
+                  {"id": 30, "status":"Incomplete","topic": "Encapsulation and Abstraction"}
+                ]
+              },
+              {
+                "day_id": 2,
+                "topics": [
+                  {"id": 31, "status":"Incomplete","topic": "Working with Date and Time"},
+                  {"id": 32, "status":"Incomplete","topic": "Regular Expressions"}
+                ]
+              },
+              {
+                "day_id": 3,
+                "topics": [
+                  {"id": 33, "status":"Incomplete","topic": "List of Comprehensions"},
+                  {"id": 34, "status":"Incomplete","topic": "Lambda Functions"}
+                ]
+              },
+              {
+                "day_id": 4,
+                "topics": [
+                  {"id": 35, "status":"Incomplete","topic": "Map, Filter, and Reduce"},
+                  {"id": 36, "status":"Incomplete","topic": "Error Handling and Debugging"}
+                ]
+              },
+              {
+                "day_id": 5,
+                "topics": [
+                  {"id": 37, "status":"Incomplete","topic": "Basic Input and Output"},
+                  {"id": 38, "status":"Incomplete","topic": "Working with JSON and CSV"}
+                ]
+              },
+              {
+                "day_id": 6,
+                "topics": [
+                  {"id": 39, "status":"Incomplete","topic": "Introduction to Libraries (e.g., NumPy, Pandas)"},
+                  {"id": 40, "status":"Incomplete","topic": "Overview of Data Manipulation"}
+                ]
+              },
+              {
+                "day_id": 7,
+                "topics": [
+                  {"id": 41, "status":"Incomplete","topic": "Project: Simple Python Program"},
+                  {"id": 42, "status":"Incomplete","topic": "Review and Recap"}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+  ]
+}
+
+
